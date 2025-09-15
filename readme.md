@@ -60,8 +60,8 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 1. Clone and navigate to the repository:
 
 ```bash
-git clone <repository-url>
-cd ensemble-crypto-analysis
+git clone https://github.com/arnavpathak2003/ensemble-block-cipher-cryptanalysis.git
+cd  ensemble-block-cipher-cryptanalysis
 ```
 
 2. Choose your cipher directory:
