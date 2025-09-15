@@ -1,0 +1,13 @@
+[project]
+name = "sm4-final"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "tensorflow[and-cuda]>=2.20.0",
+    "xgboost>=3.0.2",
+]
