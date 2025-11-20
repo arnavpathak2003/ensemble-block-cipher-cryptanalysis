@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use the code."
+title: "Ensemble Block Cipher Cryptanalysis"
+authors:
+  - family-names: Rawal
+    given-names: Shruti
+  - family-names: Pathak
+    given-names: Arnav
+version: "1.0"
+url: "https://github.com/arnavpathak2003/ensemble-block-cipher-cryptanalysis"
