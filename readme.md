@@ -305,8 +305,34 @@ accuracy, training_time = time_algorithm(train_xgboost, batch_loader)
 print(f"Accuracy: {accuracy:.4f}%, Time: {training_time:.2f}s")
 ```
 
-## Citation
+## Authors
+- **Shruti Rawal** — [@shruhans](https://github.com/shruhans)
+- **Arnav Pathak** — [@arnavpathak2003](https://github.com/arnavpathak2003)
+- **Kopal Gupta** — [@kopalgupta04](https://github.com/kopalgupta04)
 
-If you use this code or findings in your research, please cite our work.
+---
+
+## How to Cite
+
+If you use this repository in your research, please cite it as follows:
+
+```bibtex
+@software{rawal_pathak_ensemble_block_cipher_cryptanalysis_2025,
+  author       = {Rawal, Shruti and Pathak, Arnav},
+  title        = {Ensemble Block Cipher Cryptanalysis},
+  year         = {2025},
+  version      = {1.0},
+  url          = {https://github.com/arnavpathak2003/ensemble-block-cipher-cryptanalysis}
+}
+```
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+You may copy, distribute, and modify this software as long as you track changes/dates in source files  
+and release any derivative works under the same GPL-3.0 license.
+
+The full license text is available in the [`LICENSE`](./LICENSE) file.
+
 
 
